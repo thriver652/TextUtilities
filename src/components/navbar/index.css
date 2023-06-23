@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.choose_color {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    left: 1140px;
+}
+
+.my-button {
+    display: none;
+}
