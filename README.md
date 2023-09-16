@@ -1,6 +1,6 @@
 # React Text-Utilities
 
-Live Demo : 
+Live Demo : https://thriver652.github.io/TextUtilities/
 
 # Getting Started with Create React App
 
